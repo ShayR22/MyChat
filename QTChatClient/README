@@ -1,0 +1,7 @@
+Connection:
+    View:
+    - can ask to connect to another user (to server)
+    - can accept an incoming call from a user (from client)
+    Modul:
+    - notify that an incoming call is happening (server side)
+    - notify that connection has been established (client side)
